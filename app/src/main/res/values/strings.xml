@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeliveryFood</string>
+    <string name="show_less">Ver mas</string>
+    <string name="show_more">Ver menos</string>
+    <string name="preference_file_key">first</string>
+</resources>
